@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "echo_server_tcp/1.0.0": {
+        "runtime": {
+          "echo_server_tcp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "echo_server_tcp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -6,14 +6,16 @@ using System.Text;
 
 class MyTcpListener
 {
-    public static void Main()
+    public static void Main(string[] args)
     {
         TcpListener server = null;
         try
         {
             // Set the TcpListener on port 13000.
             Int32 port = 13000;
-            IPAddress localAddr = IPAddress.Parse("192.168.1.20");
+            IPAddress localAddr;
+            if (args.Length == 0) localAddr = IPAddress.Parse("192.168.1.20");
+            else localAddr = IPAddress.Parse(args[0]);
 
             // TcpListener server = new TcpListener(port);
             server = new TcpListener(localAddr, port);

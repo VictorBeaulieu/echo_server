@@ -1,0 +1,12 @@
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\bin\Release\netcoreapp3.0\echo_server_tcp.exe
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\bin\Release\netcoreapp3.0\echo_server_tcp.deps.json
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\bin\Release\netcoreapp3.0\echo_server_tcp.runtimeconfig.json
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\bin\Release\netcoreapp3.0\echo_server_tcp.runtimeconfig.dev.json
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\bin\Release\netcoreapp3.0\echo_server_tcp.dll
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\bin\Release\netcoreapp3.0\echo_server_tcp.pdb
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\obj\Release\netcoreapp3.0\echo_server_tcp.csproj.CoreCompileInputs.cache
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\obj\Release\netcoreapp3.0\echo_server_tcp.AssemblyInfoInputs.cache
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\obj\Release\netcoreapp3.0\echo_server_tcp.AssemblyInfo.cs
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\obj\Release\netcoreapp3.0\echo_server_tcp.dll
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\obj\Release\netcoreapp3.0\echo_server_tcp.pdb
+C:\Users\VictorBeaulieu\Documents\echo_server\echo_server_tcp\echo_server_tcp\obj\Release\netcoreapp3.0\echo_server_tcp.csprojAssemblyReference.cache
